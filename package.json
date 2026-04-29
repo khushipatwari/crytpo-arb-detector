@@ -1,0 +1,14 @@
+{
+  "name": "coindcx-triangular-arbitrage-detector",
+  "version": "1.0.0",
+  "description": "Real-time CoinDCX triangular arbitrage detector with ML filtering",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0"
+  }
+}
